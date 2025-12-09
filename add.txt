@@ -1,0 +1,1 @@
+la commande git add permet a un fichier de passer du « répertoire de travail » à « Staging area »
