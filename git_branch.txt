@@ -1,0 +1,2 @@
+La commande git branch permet premièrement de visualiser toutes les branches qui sont présent et nous indique dans quel branche on se trouve.
+Deuxièmement il y a aussi le git branch qui lui permet de créer une nouvelle branche.
